@@ -1,0 +1,6 @@
+[info]
+title=Linter for Nginx, using nginx-lint
+desc=Linter for CudaLint, adds support for Nginx lexer, using nginx-lint
+type=cudatext-plugin
+subdir=cuda_lint_nginx
+homepage=https://github.com/cudatext-addons/cuda_lint_nginx
